@@ -3,7 +3,7 @@ An exploratory data analysis project which analyses the traits of users in a wha
 
 Link: [https://hinglishchatanalysis.herokuapp.com/](https://hinglishchatanalysis.herokuapp.com/)
 
-[![](https://imgur.com/a/vskTwp0)](https://hinglishchatanalysis.herokuapp.com/)
+[![](https://imgur.com/a/vskTwp0.png?1)](https://hinglishchatanalysis.herokuapp.com/)
 
 ## Inspiration
 Whatsapp is an excellent platform for groups with friends, family and colleagues to coexist. Over the years we would have sent out thousands of messages and read millions of messages in the app. A lot of insights can be dug up from just a single chat. 
