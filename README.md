@@ -12,9 +12,11 @@ Hence analysing these messages will figure out the messaging pattern of the indi
 These insights will help paint a picture of the nature of a person.
 
 ## Overview
-This streamlit app takes chat from the user in the form of text file.
-The data is cleaned using `preprocessor.py`.
-The data is analysed using `helper.py` and is visualized using bar/line graph, wordcloud, heatmap, pie charts 
+This 'streamlit' app takes chat from the user in the form of text file.
+
+The data is cleaned and preprocessed using `preprocessor.py`. The chat may include hinglish, so I have used `stop_hinglish.txt` which contains stopwords of both english and hindi.
+
+The data is analysed using `helper.py` and is visualized using bar/line graph, wordcloud, heatmap, pie charts.
 
 ## Installation
 The Code is written in Python 3.9.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
