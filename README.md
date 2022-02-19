@@ -1,9 +1,9 @@
-# Flyguesser 
-ML model that predicts the flight price using regression based algorithms and help users to look for optimal time and prices to book flight tickets.
+# WhatsApp Chat Analysis 
+An exploratory data analysis project which analyses the traits of users in a whatsapp chat. It also analyses the sentiments using nlp lib VADER.
 
-Link: [https://flyguesser.herokuapp.com/](https://flyguesser.herokuapp.com/)
+Link: [https://hinglishchatanalysis.herokuapp.com/](https://hinglishchatanalysis.herokuapp.com/)
 
-[![](https://i.imgur.com/4VSHxE9.png?1)](https://flyguesser.herokuapp.com/)
+[![](https://i.imgur.com/4VSHxE9.png?1)](https://hinglishchatanalysis.herokuapp.com/)
 
 ## Inspiration
 Nowadays, airline ticket prices can vary dynamically for the same flight. Customers are seeking to get the lowest price while airlines are trying to keep their overall revenue as high as possible and maximize their profit. Airlines use various kinds of computational techniques to increase their revenue such as demand prediction and price discrimination. 
@@ -11,15 +11,10 @@ Nowadays, airline ticket prices can vary dynamically for the same flight. Custom
 This is a Flask web app that predicts the ticket price so that customer can find optimal time and prices to book flight tickets.
 
 ## Installation
-The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+The Code is written in Python 3.9.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Dataset
-
- - [Dataset Link](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
-
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download CLI to manually deploy this project.
@@ -71,4 +66,5 @@ Connect this app to GitHub and search for a repository to connect to. Then choos
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" width=170>](https://developer.mozilla.org/en-US/docs/Web/HTML)[<img target="_blank" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" width=170>](https://en.wikipedia.org/wiki/Heroku)
+![](https://forthebadge.com/images/badges/made-with-python.svg)[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width=200>](https://streamlit.io/) 
+[<img target="_blank" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" width=170>](https://en.wikipedia.org/wiki/Heroku)
