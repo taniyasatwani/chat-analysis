@@ -3,7 +3,8 @@ An exploratory data analysis project which analyses the traits of users in a wha
 
 Link: [https://hinglishchatanalysis.herokuapp.com/](https://hinglishchatanalysis.herokuapp.com/)
 
-[![Web App GIF](https://i.imgur.com/dPbBY80.gif)](https://twitter-analysis-web-app.herokuapp.com)
+
+[![Web App GIF](Figures/Web_App_GIF_Aug23.gif)](https://twitter-analysis-web-app.herokuapp.com)
 <br/>
 
 ## Inspiration
